@@ -1,22 +1,22 @@
 shopping cart with Redux toolkit and React
 
-features
-Display a list of products
-Add products to the shopping cart
-Remove individual products from the shopping cart
-Clear all products from the shopping cart
+features:
+Display a list of products,
+Add products to the shopping cart,
+Remove individual products from the shopping cart,
+Clear all products from the shopping cart.
 
 
-setup and installation 
+setup and installation -
 Prerequisites:
-Node.js installed on your machine
-npm or yarn
+Node.js installed on your machine,
+npm or yarn.
 
 steps:
-clone the repository
-install dependencies using npm install or yarn install
+clone the repository,
+install dependencies using npm install or yarn install,
 start the development server:
-npm start or yarn start
+npm start or yarn start,
 application should now be running on http://localhost:3000.
 
 
